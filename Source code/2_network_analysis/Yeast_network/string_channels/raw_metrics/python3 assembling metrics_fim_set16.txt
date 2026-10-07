@@ -1,0 +1,115 @@
+python3 assembling_metrics.py
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'graph_tool', 'infomap', 'bayanpy'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'pyclustering', 'ASLPAw'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'infomap'}
+database
+ size of network 4044
+- degree
+- eigenvector
+- closeness
+Algo deu errado no current_flow_closeness
+- current_flow_closeness
+- betweeness
+Algo deu errado no cf_betweenness
+- cf_betweenness
+- comm_betweenness
+- load_centrality
+- harmonic_centrality
+- laplacian_centrality
+- percolation_centrality
+Algo deu errado no second_order_centrality
+- second_order_centrality
+- local_reaching_centrality
+- participation_coeff
+
+ Took 126456.503321 s
+database
+Using 14 metrics in 25_09_03.
+Saving dataframe to ../data/database_25_09_03_14m.csv
+cooccurence
+ size of network 2615
+- degree
+- eigenvector
+- closeness
+Algo deu errado no current_flow_closeness
+- current_flow_closeness
+- betweeness
+Algo deu errado no cf_betweenness
+- cf_betweenness
+- comm_betweenness
+- load_centrality
+- harmonic_centrality
+- laplacian_centrality
+- percolation_centrality
+Algo deu errado no second_order_centrality
+- second_order_centrality
+- local_reaching_centrality
+- participation_coeff
+
+ Took 23137.182237 s
+cooccurence
+Using 14 metrics in 25_09_03.
+Saving dataframe to ../data/cooccurence_25_09_03_14m.csv
+x_fusion
+ size of network 3095
+- degree
+- eigenvector
+- closeness
+Algo deu errado no current_flow_closeness
+- current_flow_closeness
+- betweeness
+Algo deu errado no cf_betweenness
+- cf_betweenness
+- comm_betweenness
+- load_centrality
+- harmonic_centrality
+- laplacian_centrality
+- percolation_centrality
+Algo deu errado no second_order_centrality
+- second_order_centrality
+- local_reaching_centrality
+- participation_coeff
+
+ Took 40004.321976 s
+x_fusion
+Using 14 metrics in 25_09_03.
+Saving dataframe to ../data/x_fusion_25_09_03_14m.csv
+
+
+
+
+(base) joao@GA-78LMT:~/Downloads/best_centralities/clean/src$ python3 assembling_metrics.py
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'graph_tool', 'bayanpy', 'leidenalg', 'infomap'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'pyclustering', 'ASLPAw'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'infomap'}
+combined_score
+ size of network 6538
+- degree
+- eigenvector
+- closeness
+- current_flow_closeness
+- betweeness
+- cf_betweenness
+- comm_betweenness
+- load_centrality
+- harmonic_centrality
+- laplacian_centrality
+- percolation_centrality
+- second_order_centrality
+- local_reaching_centrality
+- participation_coeff
+
+ Took 953615.975197 s
+combined_score
+Using 14 metrics in 25_09_15.
+Saving dataframe to ../data/combined_score_25_09_15_14m.csv
+coexpression
+ size of network 6503
+- degree
+- eigenvector
+- closeness
+Algo deu errado no current_flow_closeness
+- current_flow_closeness
+- betweeness
+Algo deu errado no cf_betweenness
+- cf_betweenness

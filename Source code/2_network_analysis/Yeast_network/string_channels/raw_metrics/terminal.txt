@@ -1,0 +1,73 @@
+(base) joao@GA-78LMT:~/Downloads/best_centralities/clean/src$ python3 assembling_metrics.py
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'bayanpy', 'leidenalg', 'graph_tool'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'leidenalg'}
+experimental
+ size of network 6036
+- degree
+- eigenvector
+- closeness
+Algo deu errado no current_flow_closeness
+- current_flow_closeness
+- betweeness
+Algo deu errado no cf_betweenness
+- cf_betweenness
+- comm_betweenness
+- load_centrality
+- harmonic_centrality
+- laplacian_centrality
+- percolation_centrality
+Algo deu errado no second_order_centrality
+- second_order_centrality
+- local_reaching_centrality
+- participation_coeff
+
+ Took 668874.646246 s
+experimental
+Using 14 metrics in 25_10_01.
+Saving dataframe to ../data/experimental_25_10_01_14m.csv
+coexpression
+ size of network 6503
+- degree
+- eigenvector
+- closeness
+Algo deu errado no current_flow_closeness
+- current_flow_closeness
+- betweeness
+Algo deu errado no cf_betweenness
+- cf_betweenness
+- comm_betweenness
+- load_centrality
+- harmonic_centrality
+- laplacian_centrality
+- percolation_centrality
+Algo deu errado no second_order_centrality
+- second_order_centrality
+- local_reaching_centrality
+- participation_coeff
+
+ Took 795948.058308 s
+coexpression
+Using 14 metrics in 25_10_10.
+Saving dataframe to ../data/coexpression_25_10_10_14m.csv
+textmining
+ size of network 6075
+- degree
+- eigenvector
+- closeness
+- current_flow_closeness
+- betweeness
+- cf_betweenness
+- comm_betweenness
+- load_centrality
+- harmonic_centrality
+- laplacian_centrality
+- percolation_centrality
+- second_order_centrality
+- local_reaching_centrality
+- participation_coeff
+
+ Took 763216.152747 s
+textmining
+Using 14 metrics in 25_10_19.
+Saving dataframe to ../data/textmining_25_10_19_14m.csv

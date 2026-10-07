@@ -1,0 +1,31 @@
+##################################
+#INPUT PARAMETERS
+#Tue Mar 31 14:55:42 2026
+#rank_by: combined_score
+#n_top: 20
+#Metrics To be Used: 
+##best
+##################################
+Overall_rank	Name	Venn_position	UniProt_Link
+1.0º	5671.A4I9H1	not in Chagas, exclusive's 1.0º	uniprot.org/uniprotkb/A4I9H1/entry
+2.0º	5671.E9AH25	not in Chagas, exclusive's 2.0º	uniprot.org/uniprotkb/E9AH25/entry
+3.0º	5671.Q8MQV3	in Chagas, middle's 1.0º	uniprot.org/uniprotkb/Q8MQV3/entry
+3.0º	5671.A4HVM4	in Chagas, middle's 2.0º	uniprot.org/uniprotkb/A4HVM4/entry
+4.0º	5671.A4HTK1	not in Chagas, exclusive's 3.0º	uniprot.org/uniprotkb/A4HTK1/entry
+5.0º	5671.E9AH79	not in Chagas, exclusive's 4.0º	uniprot.org/uniprotkb/E9AH79/entry
+6.0º	5671.A4I122	in Chagas, middle's 3.0º	uniprot.org/uniprotkb/A4I122/entry
+7.0º	5671.A4I2I8	in Chagas, middle's 6.0º	uniprot.org/uniprotkb/A4I2I8/entry
+8.0º	5671.A4HZS7	not in Chagas, exclusive's 5.0º	uniprot.org/uniprotkb/A4HZS7/entry
+9.0º	5671.E9AGB0	in Chagas, middle's 20.0º	uniprot.org/uniprotkb/E9AGB0/entry
+10.0º	5671.A4I4W3	in Chagas, middle's 17.0º	uniprot.org/uniprotkb/A4I4W3/entry
+11.0º	5671.A4HXQ3	in Chagas, middle's 4.0º	uniprot.org/uniprotkb/A4HXQ3/entry
+11.0º	5671.A4HUS3	in Chagas, middle's 5.0º	uniprot.org/uniprotkb/A4HUS3/entry
+12.0º	5671.E9AHQ7	in Chagas, middle's 13.0º	uniprot.org/uniprotkb/E9AHQ7/entry
+13.0º	5671.A4I1T4	not in Chagas, exclusive's 7.0º	uniprot.org/uniprotkb/A4I1T4/entry
+14.0º	5671.A4HYX6	not in Chagas, exclusive's 6.0º	uniprot.org/uniprotkb/A4HYX6/entry
+15.0º	5671.A4IB24	in Chagas, middle's 8.0º	uniprot.org/uniprotkb/A4IB24/entry
+16.0º	5671.A4HTB1	in Chagas, middle's 8.0º	uniprot.org/uniprotkb/A4HTB1/entry
+17.0º	5671.A4HS64	in Chagas, middle's 10.0º	uniprot.org/uniprotkb/A4HS64/entry
+18.0º	5671.A4HYJ4	in Chagas, middle's 19.0º	uniprot.org/uniprotkb/A4HYJ4/entry
+19.0º	5671.A4HXE5	not in Chagas, exclusive's 11.0º	uniprot.org/uniprotkb/A4HXE5/entry
+20.0º	5671.A4HRN6	in Chagas, middle's 11.0º	uniprot.org/uniprotkb/A4HRN6/entry

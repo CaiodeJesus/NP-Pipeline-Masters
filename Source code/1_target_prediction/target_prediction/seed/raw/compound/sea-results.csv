@@ -1,0 +1,181 @@
+Query ID,Target ID,Affinity Threshold (nM),P-Value,Max Tc,Cut Sum,Z-Score,Name,Description,Query Smiles
+compound_1,5HT3A_CAVPO,5,3.32e-14,0.3265,1.2239,23.7478,HTR3A,5-hydroxytryptamine receptor 3A,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,5HT7R_HUMAN,5,"0,0007826",0.3684,7.4748,10.5129,HTR7,5-hydroxytryptamine receptor 7,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,A3KMY8_BOVIN,5,2.22e-16,0.3902,1.4827,27.5149,GUSB,Beta-glucuronidase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,AA1R_RAT,5,"0,0003347",0.4583,9.3876,11.1753,Adora1,Adenosine receptor A1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,AA1R_HUMAN,5,"2,665E-12",0.5581,27.4627,25.7148,ADORA1,Adenosine receptor A1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,AA2AR_RAT,5,"0,0008675",0.4490,6.4264,10.4327,Adora2a,Adenosine receptor A2a,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,AA2BR_MOUSE,5,"4,444E-07",0.3167,0.3167,16.3403,Adora2b,Adenosine receptor A2b,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,AA2AR_HUMAN,5,1.11e-16,0.5098,32.3110,28.4337,ADORA2A,Adenosine receptor A2a,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,AA2BR_HUMAN,5,"4,341E-14",0.4000,19.3442,28.9256,ADORA2B,Adenosine receptor A2b,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,AA3R_HUMAN,5,"5,355E-08",0.4884,19.0002,17.9901,ADORA3,Adenosine receptor A3,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ABL1_HUMAN,5,"1,422E-62",0.4314,79.5859,115.9709,ABL1,Tyrosine-protein kinase ABL1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ACHA7_RAT,5,"0,006065",0.4107,4.6950,8.9165,Chrna7,Neuronal acetylcholine receptor subunit alpha-7,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ACVL1_HUMAN,5,"2,345E-08",0.4043,1.7311,18.6341,ACVRL1,Serine/threonine-protein kinase receptor R3,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ACVR1_HUMAN,5,"0,001083",0.5217,1.4522,10.2598,ACVR1,Activin receptor type-1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,AKT1_HUMAN,5,7.15e-06,0.3548,8.9755,8.7881,AKT1,RAC-alpha serine/threonine-protein kinase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ALR_HUMAN,5,"0,003955",0.5778,5.4156,9.2498,GFER,FAD-linked sulfhydryl oxidase ALR,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,AOFB_RAT,5,"9,058E-10",0.4000,6.8307,21.1709,Maob,Amine oxidase [flavin-containing] B,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,APEX1_HUMAN,5,"1,046E-25",0.5283,4.1292,49.7840,APEX1,DNA-(apurinic or apyrimidinic site) lyase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,B2CL1_HUMAN,5,"6,183E-82",0.4667,58.9912,150.7315,BCL2L1,Bcl-2-like protein 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,B2CL1_MOUSE,5,"3,291E-59",0.3333,24.1570,109.9309,Bcl2l1,Bcl-2-like protein 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,B2CL2_HUMAN,5,9.07e-20,0.3906,1.4595,33.7371,BCL2L2,Bcl-2-like protein 2,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,C3SLN3_ECOLX,5,"2,086E-75",0.3393,5.1630,139.0116,gyrB,DNA gyrase subunit B,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,C4YTQ8_CANAW,5,"1,442E-06",0.4364,6.8690,15.4224,,ATP-dependent molecular chaperone HSP82,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CALM_BOVIN,5,"7,946E-08",0.2899,0.2899,17.6824,CALM,Calmodulin,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CASP3_HUMAN,5,"8,882E-13",0.5814,12.9132,26.5805,CASP3,Caspase-3,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CASR_HUMAN,5,"6,642E-16",0.4098,9.2772,32.1847,CASR,Extracellular calcium-sensing receptor,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CATK_CANLF,5,"1,291E-25",0.3538,0.3538,49.6197,CTSK,Cathepsin K,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CBPB_HELZE,5,"6,672E-11",0.3036,0.3036,23.2049,CPB,Carboxypeptidase B,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CCR6_HUMAN,5,"1,185E-05",0.4400,0.4400,13.7800,CCR6,C-C chemokine receptor type 6,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CDK3_HUMAN,5,"0,007416",0.3000,0.8806,8.7597,CDK3,Cyclin-dependent kinase 3,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CDK5_HUMAN,5,"2,205E-05",0.5217,6.9894,13.2958,CDK5,Cyclin-dependent-like kinase 5,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CDK2_HUMAN,5,"0,001016",0.3860,10.8609,10.3092,CDK2,Cyclin-dependent kinase 2,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CH10_HUMAN,5,"3,304E-06",0.3077,0.3077,14.7760,HSPE1,"10 kDa heat shock protein, mitochondrial",O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CH60_HUMAN,5,"3,304E-06",0.3077,0.3077,14.7760,HSPD1,"60 kDa heat shock protein, mitochondrial",O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CLK1_HUMAN,5,"1,555E-15",0.5306,7.4458,31.5216,CLK1,Dual specificity protein kinase CLK1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,COT2_HUMAN,5,"0,009198",0.3333,1.2008,8.5917,NR2F2,COUP transcription factor 2,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CP1A2_HUMAN,5,3.98e-10,0.5870,21.1295,16.4262,CYP1A2,Cytochrome P450 1A2,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CP26A_HUMAN,5,2.22e-16,0.3519,3.4708,27.6612,CYP26A1,Cytochrome P450 26A1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CP26B_HUMAN,5,"0,0001717",0.3065,0.3065,11.6958,CYP26B1,Cytochrome P450 26B1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CP2C9_HUMAN,5,"6,488E-05",0.5870,12.8579,12.4545,CYP2C9,Cytochrome P450 2C9,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CP2CJ_HUMAN,5,"4,342E-06",0.5870,19.0009,14.5629,CYP2C19,Cytochrome P450 2C19,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CP51_TRYCC,5,"5,974E-05",0.3077,0.8837,12.5188,CYP51,Sterol 14-alpha demethylase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CTDS1_HUMAN,5,"0,004612",0.5345,3.6975,9.1300,CTDSP1,Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,CTNB1_HUMAN,5,"0,007273",0.3284,1.7909,8.7749,CTNNB1,Catenin beta-1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,DDAH1_HUMAN,5,"6,007E-08",0.3953,0.3953,17.9006,DDAH1,"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,DDIT3_MOUSE,5,"0,001108",0.4000,2.3000,10.2421,Ddit3,DNA damage-inducible transcript 3 protein,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,DHB1_HUMAN,5,"1,721E-06",0.4468,3.8044,15.2846,HSD17B1,Estradiol 17-beta-dehydrogenase 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,DHB2_HUMAN,5,"4,942E-05",0.4468,3.3788,12.6667,HSD17B2,Estradiol 17-beta-dehydrogenase 2,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,DLDH_MYCTU,5,"1,956E-09",0.4127,2.2215,20.5708,lpdC,Dihydrolipoyl dehydrogenase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,DPOL_HHV6U,5,"1,555E-05",0.3016,0.3016,13.5681,U38,DNA polymerase catalytic subunit,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,DRD4_RAT,5,"9,662E-29",0.3684,6.6133,55.2316,Drd4,D(4) dopamine receptor,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,DYR1A_RAT,5,"7,035E-27",0.6585,21.1007,51.8884,Dyrk1a,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,DYR_BOVIN,5,"0,0001868",0.3617,1.6943,11.6298,DHFR,Dihydrofolate reductase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,EBNA1_EBVB9,5,"0,001043",0.3333,0.6606,10.2887,EBNA1,Epstein-Barr nuclear antigen 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ETHR_MYCTU,5,"0,0001618",0.3279,0.6404,11.7418,ethR,HTH-type transcriptional regulator EthR,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,FAAH1_RAT,5,"2,449E-07",0.4500,9.3531,16.8047,Faah,Fatty-acid amide hydrolase 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,FYN_HUMAN,5,"0,0002646",0.5217,2.9029,11.3584,FYN,Tyrosine-protein kinase Fyn,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,GHSR_HUMAN,5,"0,0001262",0.3860,7.7579,11.9357,GHSR,Growth hormone secretagogue receptor type 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,GLCM_HUMAN,5,"0,0004332",0.3220,2.1672,10.9741,GBA,Lysosomal acid glucosylceramidase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,GLD1_CAEEL,5,"2,232E-08",0.3111,1.1968,18.6723,gld-1,Female germline-specific tumor suppressor gld-1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,GLSK_HUMAN,5,"4,372E-22",0.3469,13.4683,43.2826,GLS,"Glutaminase kidney isoform, mitochondrial",O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,GRAB_HUMAN,5,"6,574E-08",0.2941,0.5848,17.8302,GZMB,Granzyme B,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,GRM5_MOUSE,5,"6,106E-12",0.2830,0.2830,25.0737,Grm5,Metabotropic glutamate receptor 5,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,GSK3A_HUMAN,5,"1,875E-21",0.4200,14.5206,42.1474,GSK3A,Glycogen synthase kinase-3 alpha,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,GSK3B_HUMAN,5,"1,317E-16",0.5217,28.1894,33.4465,GSK3B,Glycogen synthase kinase-3 beta,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,GYRB_MYCSM,5,"5,448E-07",0.3500,1.8051,16.1814,gyrB,DNA gyrase subunit B,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,HCD2_HUMAN,5,"7,655E-08",0.2903,0.2903,17.7115,HSD17B10,3-hydroxyacyl-CoA dehydrogenase type-2,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,HIS1_MYCTU,5,"4,441E-13",0.3548,0.3548,27.1710,hisG,ATP phosphoribosyltransferase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,HPGDS_HUMAN,5,"0,0001572",0.3667,1.7059,11.7645,HPGDS,Hematopoietic prostaglandin D synthase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,HSF1_MOUSE,5,"4,176E-09",0.4138,5.3560,19.9792,Hsf1,Heat shock factor protein 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ILK_HUMAN,5,5.61e-49,0.3529,10.9354,86.1759,ILK,Integrin-linked protein kinase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ISPD_ARATH,5,"4,672E-35",0.3860,0.7466,66.5700,ISPD,"2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase, chloroplastic",O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,IRAK4_HUMAN,5,"4,744E-19",0.3438,27.0541,37.8331,IRAK4,Interleukin-1 receptor-associated kinase 4,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ITK_HUMAN,5,3.22e-15,0.4545,9.5671,25.5789,ITK,Tyrosine-protein kinase ITK/TSK,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,KAT8_HUMAN,5,"8,596E-16",0.2982,0.2982,31.9836,KAT8,Histone acetyltransferase KAT8,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,KC1D_HUMAN,5,"3,528E-35",0.5854,21.2820,66.7891,CSNK1D,Casein kinase I isoform delta,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,KC1D_RAT,5,"6,729E-15",0.3239,1.2310,30.3792,Csnk1d,Casein kinase I isoform delta,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,KC1E_HUMAN,5,"4,809E-05",0.3239,2.9837,12.6880,CSNK1E,Casein kinase I isoform epsilon,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,KCC1D_HUMAN,5,2.16e-06,0.5217,0.8690,9.7212,CAMK1D,Calcium/calmodulin-dependent protein kinase type 1D,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,KCC2A_HUMAN,5,3.31e-08,0.5217,1.1571,12.9793,CAMK2A,Calcium/calmodulin-dependent protein kinase type II subunit alpha,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,KCNQ1_HUMAN,5,"8,089E-17",0.3077,1.4633,33.8263,KCNQ1,Potassium voltage-gated channel subfamily KQT member 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,KLF5_HUMAN,5,"3,983E-08",0.4706,1.9005,18.2209,KLF5,Krueppel-like factor 5,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,KPYK_STAAR,5,"5,632E-22",0.3962,3.6098,43.0852,pyk,Pyruvate kinase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,LAT_MYCTU,5,"1,319E-25",0.3000,0.8775,49.6030,lat,Probable L-lysine-epsilon aminotransferase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,LCK_HUMAN,5,"3,094E-36",0.5918,41.0836,68.6867,LCK,Tyrosine-protein kinase Lck,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,LEF_BACAN,5,"0,0007019",0.3065,2.0531,10.5979,lef,Lethal factor,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,LIPE_HUMAN,5,1.17e-09,0.3582,5.5875,15.5852,LIPG,Endothelial lipase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,LKHA4_MOUSE,5,"2,725E-67",0.3793,7.1854,124.4405,Lta4h,Leukotriene A-4 hydrolase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,LKHA4_HUMAN,5,"1,042E-17",0.3793,9.2741,35.4240,LTA4H,Leukotriene A-4 hydrolase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,LMP1_EBVB9,5,"7,384E-05",0.5319,1.8652,12.3536,LMP1,Latent membrane protein 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,LOX12_HUMAN,5,"0,003198",0.3607,1.0280,9.4155,ALOX12,"Arachidonate 12-lipoxygenase, 12S-type",O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,LOX12_MOUSE,5,1.11e-16,0.3231,0.3231,28.6592,Alox12,"Arachidonate 12-lipoxygenase, 12S-type",O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,LTK_HUMAN,5,"0,001438",0.5217,1.4971,10.0387,LTK,Leukocyte tyrosine kinase receptor,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,LUCI_AQULA,5,"5,276E-15",0.3673,0.9593,30.5690,,Luciferin 4-monooxygenase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,LUCI_PHOPE,5,"7,248E-34",0.4348,3.0525,64.4323,,Luciferin 4-monooxygenase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,LUCI_PHOPY,5,1.98e-24,0.5217,12.2512,42.1049,,Luciferin 4-monooxygenase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,MALT1_HUMAN,5,"1,062E-16",0.3462,1.6049,33.6143,MALT1,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,MAP1_YEAST,5,"0,0005912",0.3529,0.9826,10.7317,MAP1,Methionine aminopeptidase 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,MARK1_HUMAN,5,"0,001467",0.3571,0.3571,10.0233,MARK1,Serine/threonine-protein kinase MARK1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,MCA2_TRYBB,5,"1,533E-27",0.3279,0.9386,53.0764,MCA2,Metacaspase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,MCL1_HUMAN,5,"0,007589",0.4528,5.7408,8.7416,MCL1,Induced myeloid leukemia cell differentiation protein Mcl-1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,MGA_HUMAN,5,"4,423E-18",0.3393,3.1275,36.0924,MGAM,"Maltase-glucoamylase, intestinal",O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,MPI_HUMAN,5,"8,415E-05",0.5610,1.2344,12.2517,MPI,Mannose-6-phosphate isomerase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,MTR1A_HUMAN,5,"0,0004758",0.3396,4.7158,10.9010,MTNR1A,Melatonin receptor type 1A,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,MTR1B_HUMAN,5,3.92e-07,0.3390,4.3761,11.0520,MTNR1B,Melatonin receptor type 1B,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,NCS1_HUMAN,5,"9,494E-67",0.5581,0.5581,123.4674,NCS1,Neuronal calcium sensor 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,NEDD4_HUMAN,5,"2,164E-24",0.3382,0.3382,47.4216,NEDD4,E3 ubiquitin-protein ligase NEDD4,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,NEMO_HUMAN,5,"3,331E-13",0.2899,0.8594,27.3367,IKBKG,NF-kappa-B essential modulator,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,NMT_CANAL,5,"8,959E-89",0.4915,12.3159,163.0096,NMT1,Glycylpeptide N-tetradecanoyltransferase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,NOD1_HUMAN,5,"7,026E-05",0.3333,2.1351,12.3924,NOD1,Nucleotide-binding oligomerization domain-containing protein 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,NOD2_HUMAN,5,"0,002588",0.3500,1.6026,9.5806,NOD2,Nucleotide-binding oligomerization domain-containing protein 2,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,NPY1R_HUMAN,5,5.24e-14,0.3649,7.4597,23.3929,NPY1R,Neuropeptide Y receptor type 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,NPY5R_MOUSE,5,"7,327E-11",0.3571,3.0829,23.1314,Npy5r,Neuropeptide Y receptor type 5,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,NPY5R_HUMAN,5,"3,115E-07",0.3800,7.3582,16.6173,NPY5R,Neuropeptide Y receptor type 5,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,NR2E3_HUMAN,5,"2,776E-12",0.3818,2.8726,25.6930,NR2E3,Photoreceptor-specific nuclear receptor,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,NRAM2_HUMAN,5,2.07e-07,0.3036,0.5999,11.5501,SLC11A2,Natural resistance-associated macrophage protein 2,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,O31272_9GAMM,5,"1,008E-09",0.4068,0.4068,21.0878,imiS,Beta-lactamase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,O96526_LEIMA,5,"7,861E-17",0.3103,0.6007,33.8486,CRK3,Cdc2-related kinase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,OGA_RAT,5,"3,084E-10",0.2881,0.2881,22.0108,Oga,Protein O-GlcNAcase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,P3C2G_HUMAN,5,"0,0005278",0.3235,0.3235,10.8202,PIK3C2G,Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PANC_MYCTU,5,"8,009E-06",0.3684,1.2788,14.0856,panC,Pantothenate synthetase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PDE10_HUMAN,5,"1,041E-22",0.4194,50.5663,44.4019,PDE10A,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PDGFA_HUMAN,5,"1,972E-37",0.3205,0.3205,70.8332,PDGFA,Platelet-derived growth factor subunit A,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PDGFB_HUMAN,5,"0,003977",0.3205,0.3205,9.2454,PDGFB,Platelet-derived growth factor subunit B,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PI4KA_HUMAN,5,"0,0001661",0.3594,0.9353,11.7214,PI4KA,Phosphatidylinositol 4-kinase alpha,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PI4KB_HUMAN,5,"5,158E-05",0.3958,2.0833,12.6334,PI4KB,Phosphatidylinositol 4-kinase beta,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PK3CA_HUMAN,5,"2,871E-09",0.4118,28.1651,20.2714,PIK3CA,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PK3CG_HUMAN,5,"1,771E-05",0.4889,10.4986,13.4668,PIK3CG,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PLCG2_HUMAN,5,"4,208E-18",0.4364,0.8364,36.1311,PLCG2,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2",O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PORCN_HUMAN,5,"1,037E-05",0.3239,0.9326,13.8841,PORCN,Protein-serine O-palmitoleoyltransferase porcupine,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PORCN_MOUSE,5,"6,127E-40",0.4138,7.5552,75.3353,Porcn,Protein-serine O-palmitoleoyltransferase porcupine,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PPCE_PIG,5,"0,001521",0.3333,1.3076,9.9951,PREP,Prolyl endopeptidase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PRIO_HUMAN,5,"0,0001752",0.4255,1.8892,11.6800,PRNP,Major prion protein,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PRKX_HUMAN,5,1.14e-07,0.5217,2.1418,12.0151,PRKX,cAMP-dependent protein kinase catalytic subunit PRKX,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,PTN13_HUMAN,5,"3,101E-05",0.3871,0.3871,13.0301,PTPN13,Tyrosine-protein phosphatase non-receptor type 13,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,Q54A96_PLAFA,5,"2,966E-15",0.5208,6.0017,31.0180,dhod,Dihydroorotate dehydrogenase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,Q5FVF5_RAT,5,"2,095E-33",0.2879,0.2879,63.6048,Jak1,Jak1 protein,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,Q9BRH5_HUMAN,5,6.83e-07,0.2923,0.2923,10.6192,DGAT1,DGAT1 protein,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,Q9FBC5_STREE,5,3.63e-57,0.4800,3.7516,100.8779,fabK,Enoyl-ACP reductase II,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,Q9GME2_CALJA,5,"6,531E-27",0.3704,0.3704,51.9464,HSD17B1,17-beta-hydroxysteroid dehydrogenase type 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,Q9VWX8_DROME,5,"9,494E-67",0.5581,0.5581,123.4674,Frq2,FI18190p1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,REV1_HUMAN,5,"0,0001031",0.2857,0.2857,12.0935,REV1,DNA repair protein REV1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,RHLR_PSEAE,5,"1,176E-35",0.3061,0.3061,67.6457,rhlR,Regulatory protein RhlR,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ROCK1_HUMAN,5,"0,001351",0.5217,5.9534,10.0873,ROCK1,Rho-associated protein kinase 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ROCK2_RAT,5,1.32e-08,0.3400,0.3400,13.6961,Rock2,Rho-associated protein kinase 2,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,RXFP1_HUMAN,5,"1,258E-24",0.3214,4.3953,47.8444,RXFP1,Relaxin receptor 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,RXFP2_HUMAN,5,"3,333E-16",0.3051,0.3051,32.7224,RXFP2,Relaxin receptor 2,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,S22A6_HUMAN,5,"3,267E-08",0.3673,0.7347,18.3754,SLC22A6,Solute carrier family 22 member 6,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,S27A1_HUMAN,5,"0,005815",0.4630,0.4630,8.9493,SLC27A1,Long-chain fatty acid transport protein 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,SCN4A_HUMAN,5,"0,0004649",0.3036,0.6071,10.9191,SCN4A,Sodium channel protein type 4 subunit alpha,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,SENP6_HUMAN,5,"3,171E-33",0.5814,12.3655,63.2817,SENP6,Sentrin-specific protease 6,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,SENP7_HUMAN,5,"6,706E-33",0.6585,18.6410,62.6976,SENP7,Sentrin-specific protease 7,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,SENP8_HUMAN,5,"4,299E-41",0.6585,12.7722,77.4068,SENP8,Sentrin-specific protease 8,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,SMN_HUMAN,5,"0,0003133",0.4898,0.4898,11.2268,SMN1; SMN2,Survival motor neuron protein,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,SMO_MOUSE,5,"8,105E-12",0.3871,5.1203,24.8491,Smo,Smoothened homolog,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,SOAT1_MOUSE,5,2.22e-16,0.3684,3.2817,27.8707,Soat1,Sterol O-acyltransferase 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ST14_MOUSE,5,5.25e-20,0.3077,0.6062,34.1634,St14,Suppressor of tumorigenicity 14 protein homolog,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ST14_HUMAN,5,"7,236E-05",0.3509,2.5051,12.3694,ST14,Suppressor of tumorigenicity 14 protein,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,ST17B_HUMAN,5,1.39e-12,0.3051,1.7636,20.8368,STK17B,Serine/threonine-protein kinase 17B,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,STAT1_HUMAN,5,"2,946E-17",0.5581,3.3909,34.6139,STAT1,Signal transducer and activator of transcription 1-alpha/beta,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,STAT3_HUMAN,5,"0,001884",0.3889,2.5515,9.8279,STAT3,Signal transducer and activator of transcription 3,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,STRP_STRP1,5,"9,597E-08",0.5000,15.2271,17.5352,ska,Streptokinase A,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TAOK1_HUMAN,5,"0,009574",0.5217,2.2991,8.5605,TAOK1,Serine/threonine-protein kinase TAO1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TAOK3_HUMAN,5,"7,551E-06",0.4286,1.4302,14.1316,TAOK3,Serine/threonine-protein kinase TAO3,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TERA_HUMAN,5,"3,098E-11",0.3208,4.9756,23.8023,VCP,Transitional endoplasmic reticulum ATPase,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TF7L2_HUMAN,5,"0,002341",0.3284,1.7909,9.6587,TCF7L2,Transcription factor 7-like 2,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,THIO_HUMAN,5,1.25e-10,0.3830,0.3830,17.3290,TXN,Thioredoxin,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,THRB_HUMAN,5,"1,376E-05",0.3770,16.5402,13.6639,F2,Prothrombin,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TIM10_YEAST,5,"0,006911",0.5185,1.6639,8.8147,TIM10,Mitochondrial import inner membrane translocase subunit TIM10,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TIM23_YEAST,5,"7,869E-08",0.6000,3.5151,17.6900,TIM23,Mitochondrial import inner membrane translocase subunit TIM23,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TMIG3_HUMAN,5,"1,667E-08",0.5581,2.2364,18.9001,TMIGD3,Transmembrane domain-containing protein TMIGD3,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TMPS6_HUMAN,5,"2,346E-07",0.3000,1.4596,16.8382,TMPRSS6,Transmembrane protease serine 6,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TRPV1_HUMAN,5,"0,0001245",0.3824,12.0633,11.9464,TRPV1,Transient receptor potential cation channel subfamily V member 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TRY1_BOVIN,5,"1,149E-23",0.4407,12.3895,46.1202,,Cationic trypsin,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TRY1_HUMAN,5,"0,0002766",0.4407,5.7782,11.3240,PRSS1,Trypsin-1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TRY3_HUMAN,5,"1,281E-56",0.3636,1.7007,105.2807,PRSS3,Trypsin-3,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TRYB1_HUMAN,5,"1,388E-14",0.4407,4.4550,29.8149,TPSAB1,Tryptase alpha/beta-1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,TYK2_HUMAN,5,"8,608E-10",0.4074,10.0951,21.2106,TYK2,Non-receptor tyrosine-protein kinase TYK2,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,VIPR1_RAT,5,"1,013E-08",0.3137,0.8798,19.2880,Vipr1,Vasoactive intestinal polypeptide receptor 1,O=C(NC1=NC2=CC=CC=C2S1)C1CC1
+compound_1,WNT3_HUMAN,5,5.65e-09,0.3125,0.9181,14.3576,WNT3,Proto-oncogene Wnt-3,O=C(NC1=NC2=CC=CC=C2S1)C1CC1

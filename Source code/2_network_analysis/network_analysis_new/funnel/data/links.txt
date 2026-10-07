@@ -1,0 +1,3 @@
+common	https://string-db.org/cgi/link?to=27E2D401A5B021B4
+exclusive	https://string-db.org/cgi/link?to=6B77A0C87F23D7E2
+all	https://string-db.org/cgi/link?to=B8F428CCBB5B68E8

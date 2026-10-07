@@ -1,0 +1,809 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="float"/>
+<graph edgedefault="undirected"><node id="5671.A2TEF2"/>
+<node id="5671.A4I931"/>
+<node id="5671.A4HRE8"/>
+<node id="5671.A4I8F6"/>
+<node id="5671.A4I4P1"/>
+<node id="5671.E9AHL8"/>
+<node id="5671.A4I1Z4"/>
+<node id="5671.A4HSF7"/>
+<node id="5671.A4HRM7"/>
+<node id="5671.A4I194"/>
+<node id="5671.A4HRS7"/>
+<node id="5671.A4HUR8"/>
+<node id="5671.Q8MQV3"/>
+<node id="5671.A4HRT1"/>
+<node id="5671.A4I345"/>
+<node id="5671.A4ID56"/>
+<node id="5671.E9AH89"/>
+<node id="5671.A4IB17"/>
+<node id="5671.A4HX32"/>
+<node id="5671.A4I093"/>
+<node id="5671.A4HRW8"/>
+<node id="5671.A4I628"/>
+<node id="5671.E9AGT9"/>
+<node id="5671.A4HS64"/>
+<node id="5671.A4HZT9"/>
+<node id="5671.E9AG43"/>
+<node id="5671.E9AGB0"/>
+<node id="5671.A4HSB4"/>
+<node id="5671.A4HVM4"/>
+<node id="5671.A4HSD9"/>
+<node id="5671.A4I9I3"/>
+<node id="5671.E9AGI7"/>
+<node id="5671.A4I4T3"/>
+<node id="5671.A4I1Z8"/>
+<node id="5671.A4HSQ5"/>
+<node id="5671.A4HTB1"/>
+<node id="5671.A4HTD0"/>
+<node id="5671.A4IAM7"/>
+<node id="5671.A4HTW1"/>
+<node id="5671.A4HU44"/>
+<node id="5671.E9AGR8"/>
+<node id="5671.A4HUR6"/>
+<node id="5671.A4HUX0"/>
+<node id="5671.A4ICH8"/>
+<node id="5671.A4HXF5"/>
+<node id="5671.A4HYI5"/>
+<node id="5671.A4I7A2"/>
+<node id="5671.A4I7C0"/>
+<node id="5671.E9AHR7"/>
+<node id="5671.A4IC25"/>
+<node id="5671.A4HZM5"/>
+<node id="5671.A4I3V9"/>
+<node id="5671.A4HWL4"/>
+<node id="5671.A4I3C9"/>
+<node id="5671.A4I4W3"/>
+<node id="5671.A4I8C9"/>
+<node id="5671.A4HXQ3"/>
+<node id="5671.A4I9Q1"/>
+<node id="5671.A4I1D4"/>
+<node id="5671.A4HXY4"/>
+<node id="5671.A4IBA2"/>
+<node id="5671.A4I610"/>
+<node id="5671.A4I6Q3"/>
+<node id="5671.A4I4M8"/>
+<node id="5671.A4HY76"/>
+<node id="5671.A4I2D8"/>
+<node id="5671.A4HVN7"/>
+<node id="5671.A4I4U4"/>
+<node id="5671.A4HWV8"/>
+<node id="5671.A4I5W9"/>
+<node id="5671.A4IDE7"/>
+<node id="5671.A4I8F2"/>
+<node id="5671.A4I2S6"/>
+<node id="5671.A4HYJ4"/>
+<node id="5671.A4I2Q7"/>
+<node id="5671.A4HZI9"/>
+<node id="5671.A4IB24"/>
+<node id="5671.A4I122"/>
+<node id="5671.A4I2M3"/>
+<node id="5671.A4I9B7"/>
+<node id="5671.E9AH29"/>
+<node id="5671.A4IDD6"/>
+<node id="5671.A4I384"/>
+<node id="5671.A4I9B2"/>
+<node id="5671.A4I1W7"/>
+<node id="5671.A4I5J7"/>
+<node id="5671.E9AGX7"/>
+<node id="5671.A4I5W0"/>
+<node id="5671.A4I800"/>
+<node id="5671.A4IDH4"/>
+<node id="5671.A4I2K5"/>
+<node id="5671.E9AHQ7"/>
+<node id="5671.A4I646"/>
+<node id="5671.A4IB20"/>
+<node id="5671.A4IDU8"/>
+<edge source="5671.A2TEF2" target="5671.A4I931">
+  <data key="d0">0.06</data>
+</edge>
+<edge source="5671.A4I931" target="5671.A4I2K5">
+  <data key="d0">0.06</data>
+</edge>
+<edge source="5671.A4I931" target="5671.A4I646">
+  <data key="d0">0.06</data>
+</edge>
+<edge source="5671.A4I931" target="5671.A4IDE7">
+  <data key="d0">0.111</data>
+</edge>
+<edge source="5671.A4I931" target="5671.A4ID56">
+  <data key="d0">0.067</data>
+</edge>
+<edge source="5671.A4HRE8" target="5671.A4I8F6">
+  <data key="d0">0.049</data>
+</edge>
+<edge source="5671.A4HRE8" target="5671.A4I4P1">
+  <data key="d0">0.049</data>
+</edge>
+<edge source="5671.A4HRE8" target="5671.E9AHL8">
+  <data key="d0">0.049</data>
+</edge>
+<edge source="5671.A4HRE8" target="5671.A4I1Z4">
+  <data key="d0">0.078</data>
+</edge>
+<edge source="5671.A4HRE8" target="5671.A4HSF7">
+  <data key="d0">0.049</data>
+</edge>
+<edge source="5671.A4I8F6" target="5671.A4HRT1">
+  <data key="d0">0.047</data>
+</edge>
+<edge source="5671.A4I8F6" target="5671.A4I1Z8">
+  <data key="d0">0.049</data>
+</edge>
+<edge source="5671.A4I8F6" target="5671.A4I4T3">
+  <data key="d0">0.046</data>
+</edge>
+<edge source="5671.A4I8F6" target="5671.A4I8F2">
+  <data key="d0">0.046</data>
+</edge>
+<edge source="5671.A4I8F6" target="5671.E9AGI7">
+  <data key="d0">0.046</data>
+</edge>
+<edge source="5671.A4I8F6" target="5671.A4I9I3">
+  <data key="d0">0.09</data>
+</edge>
+<edge source="5671.A4I8F6" target="5671.Q8MQV3">
+  <data key="d0">0.186</data>
+</edge>
+<edge source="5671.A4I4P1" target="5671.A4HRT1">
+  <data key="d0">0.047</data>
+</edge>
+<edge source="5671.A4I4P1" target="5671.A4I1Z8">
+  <data key="d0">0.049</data>
+</edge>
+<edge source="5671.A4I4P1" target="5671.E9AGI7">
+  <data key="d0">0.046</data>
+</edge>
+<edge source="5671.A4I4P1" target="5671.A4I4T3">
+  <data key="d0">0.046</data>
+</edge>
+<edge source="5671.A4I4P1" target="5671.A4I8F2">
+  <data key="d0">0.046</data>
+</edge>
+<edge source="5671.A4I4P1" target="5671.A4I9I3">
+  <data key="d0">0.09</data>
+</edge>
+<edge source="5671.A4I4P1" target="5671.Q8MQV3">
+  <data key="d0">0.186</data>
+</edge>
+<edge source="5671.E9AHL8" target="5671.A4HRT1">
+  <data key="d0">0.047</data>
+</edge>
+<edge source="5671.E9AHL8" target="5671.A4I1Z8">
+  <data key="d0">0.049</data>
+</edge>
+<edge source="5671.E9AHL8" target="5671.A4I4T3">
+  <data key="d0">0.046</data>
+</edge>
+<edge source="5671.E9AHL8" target="5671.A4I8F2">
+  <data key="d0">0.046</data>
+</edge>
+<edge source="5671.E9AHL8" target="5671.A4I9I3">
+  <data key="d0">0.09</data>
+</edge>
+<edge source="5671.E9AHL8" target="5671.E9AGI7">
+  <data key="d0">0.046</data>
+</edge>
+<edge source="5671.E9AHL8" target="5671.Q8MQV3">
+  <data key="d0">0.186</data>
+</edge>
+<edge source="5671.A4I1Z4" target="5671.A4HWL4">
+  <data key="d0">0.098</data>
+</edge>
+<edge source="5671.A4I1Z4" target="5671.A4I3V9">
+  <data key="d0">0.098</data>
+</edge>
+<edge source="5671.A4I1Z4" target="5671.A4I5J7">
+  <data key="d0">0.127</data>
+</edge>
+<edge source="5671.A4I1Z4" target="5671.Q8MQV3">
+  <data key="d0">0.064</data>
+</edge>
+<edge source="5671.A4I1Z4" target="5671.A4I2S6">
+  <data key="d0">0.112</data>
+</edge>
+<edge source="5671.A4I1Z4" target="5671.E9AGX7">
+  <data key="d0">0.112</data>
+</edge>
+<edge source="5671.A4I1Z4" target="5671.A4I8F2">
+  <data key="d0">0.112</data>
+</edge>
+<edge source="5671.A4I1Z4" target="5671.A4I5W0">
+  <data key="d0">0.112</data>
+</edge>
+<edge source="5671.A4I1Z4" target="5671.A4I800">
+  <data key="d0">0.112</data>
+</edge>
+<edge source="5671.A4I1Z4" target="5671.A4IDH4">
+  <data key="d0">0.112</data>
+</edge>
+<edge source="5671.A4HSF7" target="5671.A4I9I3">
+  <data key="d0">0.09</data>
+</edge>
+<edge source="5671.A4HSF7" target="5671.E9AGI7">
+  <data key="d0">0.046</data>
+</edge>
+<edge source="5671.A4HSF7" target="5671.A4I4T3">
+  <data key="d0">0.046</data>
+</edge>
+<edge source="5671.A4HSF7" target="5671.A4I1Z8">
+  <data key="d0">0.049</data>
+</edge>
+<edge source="5671.A4HSF7" target="5671.Q8MQV3">
+  <data key="d0">0.186</data>
+</edge>
+<edge source="5671.A4HRM7" target="5671.A4I194">
+  <data key="d0">0.044</data>
+</edge>
+<edge source="5671.A4I194" target="5671.A4HVM4">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="5671.A4HRS7" target="5671.A4HUR8">
+  <data key="d0">0.069</data>
+</edge>
+<edge source="5671.A4HRS7" target="5671.Q8MQV3">
+  <data key="d0">0.259</data>
+</edge>
+<edge source="5671.A4HUR8" target="5671.A4I628">
+  <data key="d0">0.092</data>
+</edge>
+<edge source="5671.A4HUR8" target="5671.E9AGT9">
+  <data key="d0">0.092</data>
+</edge>
+<edge source="5671.A4HUR8" target="5671.A4HX32">
+  <data key="d0">0.151</data>
+</edge>
+<edge source="5671.A4HUR8" target="5671.Q8MQV3">
+  <data key="d0">0.263</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4HRT1">
+  <data key="d0">0.147</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4HSD9">
+  <data key="d0">0.132</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4HSQ5">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4HTW1">
+  <data key="d0">0.132</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4HVM4">
+  <data key="d0">0.222</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4HWL4">
+  <data key="d0">0.261</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4HWV8">
+  <data key="d0">0.148</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4HXF5">
+  <data key="d0">0.064</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4HY76">
+  <data key="d0">0.099</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4HYI5">
+  <data key="d0">0.064</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4HZM5">
+  <data key="d0">0.099</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4I2D8">
+  <data key="d0">0.132</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4I2S6">
+  <data key="d0">0.06</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4I345">
+  <data key="d0">0.043</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4I3C9">
+  <data key="d0">0.121</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4I3V9">
+  <data key="d0">0.261</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4I5W0">
+  <data key="d0">0.06</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4I5W9">
+  <data key="d0">0.147</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4I800">
+  <data key="d0">0.06</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4I8F2">
+  <data key="d0">0.06</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4I9I3">
+  <data key="d0">0.149</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4IAM7">
+  <data key="d0">0.128</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4IB17">
+  <data key="d0">0.043</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4IC25">
+  <data key="d0">0.121</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4ICH8">
+  <data key="d0">0.069</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4ID56">
+  <data key="d0">0.043</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4IDE7">
+  <data key="d0">0.147</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4IDH4">
+  <data key="d0">0.06</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.A4IDU8">
+  <data key="d0">0.257</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.E9AGR8">
+  <data key="d0">0.099</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.E9AGX7">
+  <data key="d0">0.06</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.E9AH89">
+  <data key="d0">0.043</data>
+</edge>
+<edge source="5671.Q8MQV3" target="5671.E9AHR7">
+  <data key="d0">0.121</data>
+</edge>
+<edge source="5671.A4HRT1" target="5671.A4I345">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.A4HRT1" target="5671.A4ID56">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.A4HRT1" target="5671.E9AH89">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.A4HRT1" target="5671.A4IB17">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.A4HRT1" target="5671.A4HX32">
+  <data key="d0">0.112</data>
+</edge>
+<edge source="5671.A4HRT1" target="5671.A4I093">
+  <data key="d0">0.072</data>
+</edge>
+<edge source="5671.A4I345" target="5671.A4HX32">
+  <data key="d0">0.058</data>
+</edge>
+<edge source="5671.A4I345" target="5671.A4I093">
+  <data key="d0">0.082</data>
+</edge>
+<edge source="5671.A4I345" target="5671.A4IDE7">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.A4I345" target="5671.A4I5W9">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.A4I345" target="5671.A4I9B2">
+  <data key="d0">0.096</data>
+</edge>
+<edge source="5671.A4ID56" target="5671.A4HSB4">
+  <data key="d0">0.067</data>
+</edge>
+<edge source="5671.A4ID56" target="5671.A4HX32">
+  <data key="d0">0.058</data>
+</edge>
+<edge source="5671.A4ID56" target="5671.A4I5W9">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.A4ID56" target="5671.A4I9B2">
+  <data key="d0">0.096</data>
+</edge>
+<edge source="5671.A4ID56" target="5671.A4IDE7">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.E9AH89" target="5671.A4HX32">
+  <data key="d0">0.058</data>
+</edge>
+<edge source="5671.E9AH89" target="5671.A4I5W9">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.E9AH89" target="5671.A4I9B2">
+  <data key="d0">0.096</data>
+</edge>
+<edge source="5671.E9AH89" target="5671.A4IDE7">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.A4IB17" target="5671.A4HX32">
+  <data key="d0">0.058</data>
+</edge>
+<edge source="5671.A4IB17" target="5671.A4I5W9">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.A4IB17" target="5671.A4I9B2">
+  <data key="d0">0.096</data>
+</edge>
+<edge source="5671.A4IB17" target="5671.A4IDE7">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.A4HX32" target="5671.A4HUX0">
+  <data key="d0">0.041</data>
+</edge>
+<edge source="5671.A4HX32" target="5671.A4I5W9">
+  <data key="d0">0.112</data>
+</edge>
+<edge source="5671.A4HX32" target="5671.A4IDE7">
+  <data key="d0">0.112</data>
+</edge>
+<edge source="5671.A4HX32" target="5671.A4I7A2">
+  <data key="d0">0.096</data>
+</edge>
+<edge source="5671.A4HX32" target="5671.A4I7C0">
+  <data key="d0">0.155</data>
+</edge>
+<edge source="5671.A4I093" target="5671.A4HUX0">
+  <data key="d0">0.126</data>
+</edge>
+<edge source="5671.A4I093" target="5671.A4IAM7">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.A4I093" target="5671.A4I9B2">
+  <data key="d0">0.155</data>
+</edge>
+<edge source="5671.A4I093" target="5671.A4I9I3">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4I093" target="5671.A4I5W9">
+  <data key="d0">0.072</data>
+</edge>
+<edge source="5671.A4I093" target="5671.A4IDE7">
+  <data key="d0">0.072</data>
+</edge>
+<edge source="5671.A4I093" target="5671.A4I7A2">
+  <data key="d0">0.099</data>
+</edge>
+<edge source="5671.A4HRW8" target="5671.A4I628">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.A4HRW8" target="5671.E9AGT9">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.A4I628" target="5671.A4HSB4">
+  <data key="d0">0.128</data>
+</edge>
+<edge source="5671.A4I628" target="5671.A4HVM4">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.A4I628" target="5671.A4I1W7">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.A4I628" target="5671.A4I9I3">
+  <data key="d0">0.075</data>
+</edge>
+<edge source="5671.E9AGT9" target="5671.A4HSB4">
+  <data key="d0">0.128</data>
+</edge>
+<edge source="5671.E9AGT9" target="5671.A4HVM4">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.E9AGT9" target="5671.A4I1W7">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.E9AGT9" target="5671.A4I9I3">
+  <data key="d0">0.075</data>
+</edge>
+<edge source="5671.A4HS64" target="5671.A4HZT9">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4HS64" target="5671.E9AG43">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4HS64" target="5671.E9AGB0">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4HZT9" target="5671.A4HSQ5">
+  <data key="d0">0.088</data>
+</edge>
+<edge source="5671.A4HZT9" target="5671.A4HTB1">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4HZT9" target="5671.A4HU44">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.A4HZT9" target="5671.A4HVM4">
+  <data key="d0">0.077</data>
+</edge>
+<edge source="5671.A4HZT9" target="5671.A4HZI9">
+  <data key="d0">0.088</data>
+</edge>
+<edge source="5671.A4HZT9" target="5671.A4IB24">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4HZT9" target="5671.A4I122">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4HZT9" target="5671.A4I2M3">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.A4HZT9" target="5671.A4I9B7">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4HZT9" target="5671.E9AH29">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.A4HZT9" target="5671.A4IDD6">
+  <data key="d0">0.088</data>
+</edge>
+<edge source="5671.A4HZT9" target="5671.A4I384">
+  <data key="d0">0.088</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.A4HSQ5">
+  <data key="d0">0.088</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.A4HTB1">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.A4HU44">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.A4HVM4">
+  <data key="d0">0.077</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.A4HZI9">
+  <data key="d0">0.088</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.A4I122">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.A4I2M3">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.A4I384">
+  <data key="d0">0.088</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.A4I9B7">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.A4IB20">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.A4IB24">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.A4IDD6">
+  <data key="d0">0.088</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.E9AH29">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.A4HSQ5">
+  <data key="d0">0.088</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.A4HTB1">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.A4HU44">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.A4HVM4">
+  <data key="d0">0.077</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.A4HZI9">
+  <data key="d0">0.088</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.A4I122">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.A4I2M3">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.A4I384">
+  <data key="d0">0.088</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.A4I9B7">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.A4IB24">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.A4IDD6">
+  <data key="d0">0.088</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.E9AH29">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.A4HSB4" target="5671.A4HVM4">
+  <data key="d0">0.156</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4HSD9">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4HTW1">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4HUR6">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.E9AHR7">
+  <data key="d0">0.115</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4IC25">
+  <data key="d0">0.115</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4HZM5">
+  <data key="d0">0.092</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.E9AGR8">
+  <data key="d0">0.092</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4I3V9">
+  <data key="d0">0.092</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4HWL4">
+  <data key="d0">0.092</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4I3C9">
+  <data key="d0">0.115</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4I4W3">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4I8C9">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4HXQ3">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4I9Q1">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4I1D4">
+  <data key="d0">0.055</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4HXY4">
+  <data key="d0">0.055</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4IBA2">
+  <data key="d0">0.055</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4I610">
+  <data key="d0">0.055</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4I6Q3">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4I4M8">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4HY76">
+  <data key="d0">0.092</data>
+</edge>
+<edge source="5671.A4HVM4" target="5671.A4I2D8">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.A4I9I3" target="5671.A4HUX0">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.A4I9I3" target="5671.A4I7A2">
+  <data key="d0">0.041</data>
+</edge>
+<edge source="5671.A4I9I3" target="5671.A4I7C0">
+  <data key="d0">0.057</data>
+</edge>
+<edge source="5671.A4I9I3" target="5671.A4IDE7">
+  <data key="d0">0.055</data>
+</edge>
+<edge source="5671.A4HTD0" target="5671.A4IAM7">
+  <data key="d0">0.043</data>
+</edge>
+<edge source="5671.A4HU44" target="5671.E9AGR8">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.E9AGR8" target="5671.A4HXF5">
+  <data key="d0">0.069</data>
+</edge>
+<edge source="5671.E9AGR8" target="5671.A4HYI5">
+  <data key="d0">0.069</data>
+</edge>
+<edge source="5671.E9AGR8" target="5671.A4HYJ4">
+  <data key="d0">0.069</data>
+</edge>
+<edge source="5671.E9AGR8" target="5671.A4I2M3">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.E9AGR8" target="5671.A4I2Q7">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.E9AGR8" target="5671.A4I2S6">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.E9AGR8" target="5671.E9AGX7">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.E9AGR8" target="5671.E9AH29">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="5671.A4HUX0" target="5671.A4ICH8">
+  <data key="d0">0.082</data>
+</edge>
+<edge source="5671.A4HUX0" target="5671.A4HXF5">
+  <data key="d0">0.043</data>
+</edge>
+<edge source="5671.A4HUX0" target="5671.A4HYI5">
+  <data key="d0">0.043</data>
+</edge>
+<edge source="5671.A4HUX0" target="5671.A4I7A2">
+  <data key="d0">0.126</data>
+</edge>
+<edge source="5671.A4HUX0" target="5671.A4I7C0">
+  <data key="d0">0.126</data>
+</edge>
+<edge source="5671.A4HXF5" target="5671.A4I8F2">
+  <data key="d0">0.093</data>
+</edge>
+<edge source="5671.A4HXF5" target="5671.A4HY76">
+  <data key="d0">0.069</data>
+</edge>
+<edge source="5671.A4HXF5" target="5671.A4I2S6">
+  <data key="d0">0.093</data>
+</edge>
+<edge source="5671.A4HXF5" target="5671.A4HZM5">
+  <data key="d0">0.069</data>
+</edge>
+<edge source="5671.A4HYI5" target="5671.A4HY76">
+  <data key="d0">0.069</data>
+</edge>
+<edge source="5671.A4HYI5" target="5671.A4I2S6">
+  <data key="d0">0.093</data>
+</edge>
+<edge source="5671.A4HYI5" target="5671.A4I8F2">
+  <data key="d0">0.093</data>
+</edge>
+<edge source="5671.A4HYI5" target="5671.A4HZM5">
+  <data key="d0">0.069</data>
+</edge>
+<edge source="5671.A4I7A2" target="5671.A4HWV8">
+  <data key="d0">0.126</data>
+</edge>
+<edge source="5671.A4I7A2" target="5671.A4I7C0">
+  <data key="d0">0.138</data>
+</edge>
+<edge source="5671.A4I7A2" target="5671.A4I9B2">
+  <data key="d0">0.137</data>
+</edge>
+<edge source="5671.A4I7C0" target="5671.A4I9B2">
+  <data key="d0">0.155</data>
+</edge>
+<edge source="5671.A4HY76" target="5671.A4I8F2">
+  <data key="d0">0.068</data>
+</edge>
+<edge source="5671.A4HVN7" target="5671.A4I4U4">
+  <data key="d0">0.041</data>
+</edge>
+<edge source="5671.A4I8F2" target="5671.A4I5J7">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4I2S6" target="5671.A4I5J7">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4HYJ4" target="5671.A4I2Q7">
+  <data key="d0">0.055</data>
+</edge>
+<edge source="5671.A4I5J7" target="5671.E9AGX7">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4I5J7" target="5671.A4I5W0">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4I5J7" target="5671.A4I800">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4I5J7" target="5671.A4IDH4">
+  <data key="d0">0.066</data>
+</edge>
+<edge source="5671.A4I5J7" target="5671.E9AHQ7">
+  <data key="d0">0.095</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="float"/>
+<graph edgedefault="undirected"><node id="5671.A4HS64"/>
+<node id="5671.A4HVN7"/>
+<node id="5671.A4HZT4"/>
+<node id="5671.A4HZT9"/>
+<node id="5671.E9AG43"/>
+<node id="5671.E9AGB0"/>
+<node id="5671.A4IE38"/>
+<node id="5671.A4HTD0"/>
+<node id="5671.A4IAM7"/>
+<node id="5671.A4HUX0"/>
+<node id="5671.A4I7C0"/>
+<node id="5671.A4IB24"/>
+<node id="5671.E9AH29"/>
+<node id="5671.A4HXQ3"/>
+<node id="5671.A4I1H6"/>
+<node id="5671.A4I4P1"/>
+<node id="5671.A4I7G8"/>
+<node id="5671.E9AHL8"/>
+<node id="5671.A4I8F6"/>
+<edge source="5671.A4HS64" target="5671.A4HVN7">
+  <data key="d0">0.018</data>
+</edge>
+<edge source="5671.A4HS64" target="5671.A4HZT4">
+  <data key="d0">0.006</data>
+</edge>
+<edge source="5671.A4HS64" target="5671.A4HZT9">
+  <data key="d0">0.007</data>
+</edge>
+<edge source="5671.A4HS64" target="5671.E9AG43">
+  <data key="d0">0.006</data>
+</edge>
+<edge source="5671.A4HS64" target="5671.E9AGB0">
+  <data key="d0">0.01</data>
+</edge>
+<edge source="5671.A4HS64" target="5671.A4IE38">
+  <data key="d0">0.007</data>
+</edge>
+<edge source="5671.A4HVN7" target="5671.A4IB24">
+  <data key="d0">0.017</data>
+</edge>
+<edge source="5671.A4HVN7" target="5671.E9AH29">
+  <data key="d0">0.001</data>
+</edge>
+<edge source="5671.A4HZT4" target="5671.A4IB24">
+  <data key="d0">0.006</data>
+</edge>
+<edge source="5671.A4HZT4" target="5671.E9AH29">
+  <data key="d0">0.002</data>
+</edge>
+<edge source="5671.A4HZT9" target="5671.A4IB24">
+  <data key="d0">0.006</data>
+</edge>
+<edge source="5671.E9AG43" target="5671.A4IB24">
+  <data key="d0">0.006</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.A4IB24">
+  <data key="d0">0.009</data>
+</edge>
+<edge source="5671.E9AGB0" target="5671.E9AH29">
+  <data key="d0">0.001</data>
+</edge>
+<edge source="5671.A4IE38" target="5671.A4IB24">
+  <data key="d0">0.007</data>
+</edge>
+<edge source="5671.A4IE38" target="5671.E9AH29">
+  <data key="d0">0.001</data>
+</edge>
+<edge source="5671.A4HTD0" target="5671.A4IAM7">
+  <data key="d0">0.384</data>
+</edge>
+<edge source="5671.A4HUX0" target="5671.A4I7C0">
+  <data key="d0">0.087</data>
+</edge>
+<edge source="5671.A4HXQ3" target="5671.A4I1H6">
+  <data key="d0">0.001</data>
+</edge>
+<edge source="5671.A4I4P1" target="5671.A4I7G8">
+  <data key="d0">0.016</data>
+</edge>
+<edge source="5671.A4I7G8" target="5671.E9AHL8">
+  <data key="d0">0.002</data>
+</edge>
+<edge source="5671.A4I7G8" target="5671.A4I8F6">
+  <data key="d0">0.257</data>
+</edge>
+</graph></graphml>
